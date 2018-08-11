@@ -15,7 +15,6 @@ I recommend you consult [AlexeyAB darknet](https://github.com/AlexeyAB/darknet) 
 I provide you **'weight_convert.py'** to help extract the binary weights files like 'yolo.weights'.
 
 # Notes #
-- This implementation does not have the English version, I'm working on it!
 - If you have any questions or suggestions, **Do not wait!** I'm looking forward to discuss YOLO with you! My email is wsyzzz2008@gmail.com
 
 
